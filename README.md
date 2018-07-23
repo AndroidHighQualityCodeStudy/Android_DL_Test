@@ -8,4 +8,7 @@ https://blog.csdn.net/singwhatiwanna/article/details/23387079
 
 https://blog.csdn.net/singwhatiwanna/article/details/24532419
 
+https://github.com/singwhatiwanna/dynamic-load-apk
+
+
 
